@@ -1,0 +1,23 @@
+version: '3'
+   
+services:
+  postgres:
+    image: 'postgres:9.5'
+    volumes:
+      - 'postgres:/var/lib/postgresql/data'
+    environment:
+      POSTGRES_HOST_AUTH_METHOD: "trust"
+   
+  website:
+    depends_on:
+      - 'postgres'
+    build: .
+    ports:
+      - '3000:9292'
+    volumes:
+      - '.:/vtex-chatbot'
+    environment:
+      - LANG=C.UTF-8
+   
+volumes:
+  postgres:
