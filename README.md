@@ -2,8 +2,8 @@
 ![Logo of the project](https://github.com/Lucasdfg07/Pechinchai-Bot/blob/master/public/logo.jpeg)
 
 
-## Pechinchai Bot
-Pechinchai Bot is a chatbot developed to the Mega Hack 2.0 (https://www.megahack.com.br/), to the VTEX challenge. It's a chatbot to advice about news offerts with the clients to negociate a better price and offer to the user a better experience.
+## Pechinchaki Bot
+Pechinchaki Bot is a chatbot developed to the Mega Hack 2.0 (https://www.megahack.com.br/), to the VTEX challenge. It's a chatbot to advice about news offerts with the clients to negociate a better price and offer to the user a better experience.
 
 
 ## Technology 
