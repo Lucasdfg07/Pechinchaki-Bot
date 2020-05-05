@@ -58,6 +58,8 @@ Here are the technologies used in this project.
 
 
 ## Links
+  - Chatbot on Telegram: https://web.telegram.org/#/im?p=@Pechinchaibot
+  
   - Repository: https://github.com/Lucasdfg07/Pechinchai-Bot
     - In case of sensitive bugs like security vulnerabilities, please contact
       Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
